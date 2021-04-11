@@ -4,7 +4,7 @@
 
 ## Overview and Origin
 
-![pal_image](palantir.jpg)
+![pal_image](palantir.png)
 
 * Palantir
 
